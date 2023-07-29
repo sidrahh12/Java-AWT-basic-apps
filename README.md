@@ -1,4 +1,4 @@
-# Learning-AWTLearning AWT Repository
+# Learning-AWT
 This repository contains three simple Java applications developed using AWT (Abstract Window Toolkit) for graphical user interfaces.
 
 **GridGame**
