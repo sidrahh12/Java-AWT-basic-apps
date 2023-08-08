@@ -17,8 +17,7 @@ public class GridGame implements ActionListener {
                 "1. Each player takes turns to click on an empty button.\n" +
                 "2. The button will be colored in the player's color (red or blue).\n" +
                 "3. The player who creates the most continuous structure of four or more buttons wins.\n" +
-                "4. The structure can be horizontal or vertical.\n" +
-                "5. Diagonals don't count.\n" +
+                "4. The structure can be horizontal, vertical or horizontal.\n" +
                 "Enjoy the game!";
 
         JOptionPane.showMessageDialog(null, rules, "Game Rules", JOptionPane.INFORMATION_MESSAGE);
